@@ -1,3 +1,8 @@
+# NOT COMPATIBLE WITH 64-BIT TF2!!!!!
+
+
+
+
 # requirements
 - [HLAE (with FFMPEG)](https://github.com/advancedfx/advancedfx/releases)
 
